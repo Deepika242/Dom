@@ -1,0 +1,11 @@
+#heading{
+    text-align: center;
+    background-color: aquamarine;
+    color: plum;
+    border-radius: 10%;
+    border-style: dashed;
+}
+#main{
+    align-items: center;
+}
+
